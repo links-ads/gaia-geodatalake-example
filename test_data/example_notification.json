@@ -1,0 +1,13 @@
+{
+    "metadata_id": "066c9256-6d28-4898-b891-8bc0c5e27760",
+    "id": "f64257cc-323b-4793-95dd-de2b12eceaa0",
+    "name": "2023-07-14 DRYRUN - Rhodes Fire 36004 links.mr0000000001",
+    "datatype_id": "36004",
+    "type": "create",
+    "creation_date": "2023-11-16T14:19:53.521883",
+    "start_date": "2023-07-14T00:00:00",
+    "end_date": "2023-07-25T00:00:00",
+    "geometry": {"coordinates": [[[27.84683315635092, 36.05719670246291], [27.84683315635092, 36.31025402687288], [28.16641532217841, 36.31025402687288], [28.16641532217841, 36.05719670246291], [27.84683315635092, 36.05719670246291]]], "type": "Polygon"},
+    "request_code": "links.mr0000000001",
+    "url": "https://datalake-dev.gaia-project.cloud/dataset/eb3b9d9d-e86e-4ba0-9150-547e4fe14f20/resource/1a2b8810-315b-4a98-8522-c06adf44ba02/download/links_mr00000264_2023-07-14t2200000000_2023-07-25t2159590000_10.geojson"
+}

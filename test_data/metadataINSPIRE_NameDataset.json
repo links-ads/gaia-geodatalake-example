@@ -1,0 +1,155 @@
+{
+        "classification_TopicCategory": "imageryBaseMapsEarthCover",
+        "conformity_degree": "true",
+        "conformity_specification_date": "2010-12-08T00:00:00",
+        "conformity_specification_dateType": "publication",
+        "conformity_specification_title": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
+        "constraints_conditions_for_access_and_use": "Creative Commons CC BY-SA 3.0 IGO licence",
+        "constraints_limitation_on_public_access": "",
+        "coordinatesystemreference_code": "4326",
+        "coordinatesystemreference_codespace": "EPSG",
+        "data_temporal_extent_begin_date": "2023-07-14T22:00:00",
+        "data_temporal_extent_end_date": "2023-07-25T21:59:59",
+        "external_attributes": {
+            "acquisition_dates": {
+                "36003_links_20230714T220000+0000_20230725T215959+0000_": [
+                    [
+                        "2023-11-16T14:19:05.226907",
+                        "2023-11-16T14:19:05.226919",
+                        "2023-11-16T14:19:05.226920",
+                        "2023-11-16T14:19:05.226921"
+                    ],
+                    [
+                        "2023-11-16T14:19:19.862963",
+                        "2023-11-16T14:19:19.862976",
+                        "2023-11-16T14:19:19.862977",
+                        "2023-11-16T14:19:19.862978"
+                    ],
+                    [
+                        "2023-11-16T14:19:38.480425",
+                        "2023-11-16T14:19:38.480437"
+                    ],
+                    [
+                        "2023-11-16T14:19:53.217966",
+                        "2023-11-16T14:19:53.217976"
+                    ]
+                ],
+                "36002_links_20230714T220000+0000_20230725T215959+0000_": [
+                    [
+                        "2023-11-16T14:20:08.473535",
+                        "2023-11-16T14:20:08.473547",
+                        "2023-11-16T14:20:08.473548",
+                        "2023-11-16T14:20:08.473550"
+                    ],
+                    [
+                        "2023-11-16T14:20:08.679439",
+                        "2023-11-16T14:20:08.679451",
+                        "2023-11-16T14:20:08.679452",
+                        "2023-11-16T14:20:08.679453"
+                    ],
+                    [
+                        "2023-11-16T14:20:08.947379",
+                        "2023-11-16T14:20:08.947392"
+                    ],
+                    [
+                        "2023-11-16T14:20:09.182417",
+                        "2023-11-16T14:20:09.182428"
+                    ]
+                ],
+                "36005_links_20230714T220000+0000_20230725T215959+0000_": [
+                    [
+                        "2023-11-16T14:20:13.226878",
+                        "2023-11-16T14:20:13.226896",
+                        "2023-11-16T14:20:13.226900",
+                        "2023-11-16T14:20:13.226904"
+                    ],
+                    [
+                        "2023-11-16T14:20:16.549498",
+                        "2023-11-16T14:20:16.549520",
+                        "2023-11-16T14:20:16.549524",
+                        "2023-11-16T14:20:16.549528"
+                    ],
+                    [
+                        "2023-11-16T14:20:19.414901",
+                        "2023-11-16T14:20:19.414922"
+                    ],
+                    [
+                        "2023-11-16T14:20:22.839601",
+                        "2023-11-16T14:20:22.839623"
+                    ]
+                ],
+                "36001_links_20230714T220000+0000_20230725T215959+0000_": [
+                    [
+                        "2023-11-16T14:20:07.498237",
+                        "2023-11-16T14:20:07.498249",
+                        "2023-11-16T14:20:07.498250",
+                        "2023-11-16T14:20:07.498251"
+                    ],
+                    [
+                        "2023-11-16T14:20:07.791653",
+                        "2023-11-16T14:20:07.791665",
+                        "2023-11-16T14:20:07.791666",
+                        "2023-11-16T14:20:07.791667"
+                    ],
+                    [
+                        "2023-11-16T14:20:07.997135",
+                        "2023-11-16T14:20:07.997147"
+                    ],
+                    [
+                        "2023-11-16T14:20:08.220560",
+                        "2023-11-16T14:20:08.220572"
+                    ]
+                ],
+                "36004_links_20230714T220000+0000_20230725T215959+0000_": [
+                    [
+                        "2023-11-16T14:20:23.159077",
+                        "2023-11-16T14:20:23.159087",
+                        "2023-11-16T14:20:23.159088",
+                        "2023-11-16T14:20:23.159089"
+                    ],
+                    [
+                        "2023-11-16T14:20:23.412554",
+                        "2023-11-16T14:20:23.412566",
+                        "2023-11-16T14:20:23.412567",
+                        "2023-11-16T14:20:23.412568"
+                    ],
+                    [
+                        "2023-11-16T14:20:23.665488",
+                        "2023-11-16T14:20:23.665498"
+                    ],
+                    [
+                        "2023-11-16T14:20:23.912453",
+                        "2023-11-16T14:20:23.912464"
+                    ]
+                ]
+            }
+        },
+        "identification_CoupledResource": "",
+        "identification_ResourceLanguage": "eng",
+        "identification_ResourceType": "dataset",
+        "keyword_KeywordValue": "Wildfire, Fire, Hazard, Delineation Map",
+        "keyword_OriginatingControlledVocabulary": "ontology",
+        "metadata_language": "eng",
+        "notes": "Satellite imagery for the request links.mr00000264 from 2023-07-14 22:00:00+00:00 to 2023-07-25 21:59:59+00:00 - uploaded by LINKS",
+        "owner_org": "guardians",
+        "point_of_contact_email": "safersproject@linksfoundation.com",
+        "point_of_contact_name": "LINKS Foundation",
+        "private": false,
+        "quality_and_validity_lineage": "Quality approved",
+        "quality_and_validity_spatial_resolution_latitude": "10",
+        "quality_and_validity_spatial_resolution_longitude": "10",
+        "quality_and_validity_spatial_resolution_measureunit": "m",
+        "quality_and_validity_spatial_resolution_scale": "0",
+        "responsable_organization_email": "safersproject@linksfoundation.com",
+        "responsable_organization_name": "LINKS Foundation",
+        "responsable_organization_role": "author",
+        "spatial": "{\"coordinates\": [[[27.84683315635092, 36.05719670246291], [27.84683315635092, 36.31025402687288], [28.16641532217841, 36.31025402687288], [28.16641532217841, 36.05719670246291], [27.84683315635092, 36.05719670246291]]], \"type\": \"Polygon\"}",
+        "temporalReference_date": "2023-11-16T14:19:53.521883",
+        "temporalReference_dateOfCreation": "2023-11-16T14:19:53.521883",
+        "temporalReference_dateOfLastRevision": "2023-11-16T14:19:53.521883",
+        "temporalReference_dateOfPublication": "2023-11-16T14:19:53.521883",
+        "title": "DRYRUN - Rhodes Fire",
+        "classification_SpatialDataServiceType": "",
+        "character_encoding":"UTF-8",
+        "request_code": "links.mr0000000001"
+    }

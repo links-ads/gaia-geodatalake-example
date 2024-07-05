@@ -1,0 +1,4 @@
+requests
+fusionauth-client
+python-dotenv
+pika
