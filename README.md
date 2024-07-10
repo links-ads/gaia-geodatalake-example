@@ -5,11 +5,12 @@ In order to use this code, the following dependencies have to be satisfied.
 - install all the dependencies included in requirements.txt
 
 In order to successfully call the ckan API, the user must add its credentials in `.env` file:
+- PROJECT: name of the project lower case without stopwords
 - OAUTH_USER: the username of the geodata repository
 - OAUTH_PWD: the password of the geodatarepository
-To test the download of the files from the geodata repository you need also the access to the messaging system (to get the upload notifications)
-- RMQ_USERNAME: the username of the messaging bus system 
-- RMQ_PASSWORD: the password of the messaging bus system
+- OAUTH_API_KEY: You will receive this information in a separate way
+- OAUTH_APP_ID: You will receive this information in a separate way
+To test the download of the files from the geodata repository you need also the access to the messaging system (to get the upload notifications): you will receive the certificates
 - DOWNLOAD_PATH: where to store the file downloaded from the geodata repository
 
 ## Upload resources on the geodata repository

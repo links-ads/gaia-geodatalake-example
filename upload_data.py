@@ -119,7 +119,8 @@ if metadata_filepath:
     with open(metadata_filepath, "r", encoding="UTF-8") as f:
         metadata_body = json.load(f)
 
-# 3 . upload metadata
+# 3 . upload metadata in the correct project
+metadata_body["owner_org"] = GeoDataLakeConfig.PROJECT
 metadata_id = upload_metadata(metadata_body, access_token)
 
 print(f"metadata_id: {metadata_id}")

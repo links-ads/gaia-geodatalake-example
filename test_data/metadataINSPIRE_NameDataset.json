@@ -131,7 +131,7 @@
         "keyword_OriginatingControlledVocabulary": "ontology",
         "metadata_language": "eng",
         "notes": "Satellite imagery for the request links.mr00000264 from 2023-07-14 22:00:00+00:00 to 2023-07-25 21:59:59+00:00 - uploaded by LINKS",
-        "owner_org": "guardians",
+        "owner_org": "test",
         "point_of_contact_email": "safersproject@linksfoundation.com",
         "point_of_contact_name": "LINKS Foundation",
         "private": false,

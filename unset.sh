@@ -1,0 +1,15 @@
+
+unset CKAN_URL
+unset OAUTH_URL
+unset OAUTH_API_KEY
+unset OAUTH_APP_ID
+unset OAUTH_USER
+unset OAUTH_PWD
+unset RMQ_HOSTNAME
+unset RMQ_PORT
+unset RMQ_VHOST
+unset RMQ_EXCHANGE
+unset RMQ_CA_FILE
+unset RMQ_CERT_FILE
+unset RMQ_KEY_FILE
+unset RMQ_QUEUE

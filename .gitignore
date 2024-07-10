@@ -53,7 +53,7 @@ dataset_download/
 env-test/
 .venv/
 
-.env
+*.env
 certs/*
 downloaded_data/*
 __pycache__
