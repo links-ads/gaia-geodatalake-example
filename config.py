@@ -2,7 +2,7 @@ import os
 
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv("test.env")
 
 
 def trygetenv(name: str) -> str:
@@ -37,6 +37,7 @@ class GeoDataLakeConfig:
     Enter your credentials
     """
 
+    PROJECT = trygetenv("PROJECT")
     CKAN_URL = trygetenv("CKAN_URL")
 
 
